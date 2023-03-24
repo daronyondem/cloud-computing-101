@@ -112,3 +112,33 @@ Publication Date: 2011-10-
 |  12  | Case Study Discussions                    | Building a cloud solution architecture diagram. | End of W13 Delivery |
 |  13  | Cloud Architecture Design                 | N/A                                             |                     |
 |  14  | Q&A                                       | Prepare for the finals.                         |                     |
+
+## Syllabus
+
+**Intro to Cloud Models**: Learn about the various cloud service models, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+
+**Cloud Migration Strategies**: Understand different approaches for migrating applications and infrastructure to the cloud, and the benefits and challenges of each.
+
+**Cloud Native Architectures**: Explore the principles, patterns, and best practices for designing and deploying cloud-native applications.
+
+**Serverless and App Modernization**: Examine serverless computing, its advantages, and how legacy applications can be modernized.
+
+**Distributed Application Architectures**: Study the fundamentals of distributed systems, microservices, eventing and other architectural patterns in a cloud environment.
+
+**Distributed Cloud Databases**: Learn about various cloud-based database technologies, including relational, NoSQL, and in-memory databases, and how to choose the right one for your application.
+
+**Case Study Discussions**: Analyze real-world examples of cloud computing implementations to gain insights into practical applications and challenges.
+
+**Hybrid Cloud and Application Integrations**: Understand the hybrid cloud model and its benefits, and explore strategies for integrating on-premises and cloud-based applications.
+
+**Big Data and Analytics**: Discover how cloud-based big data and analytics solutions enable organizations to process and analyze large volumes of data for insights and decision-making.
+
+**AI/ML Workloads and Applied AI**: Learn about leveraging cloud infrastructure for AI and machine learning workloads, and high level AI services serving common business needs in the cloud.
+
+**DevOps Culture and Technology**: Study the principles of DevOps, its relationship with cloud computing, and the tools and technologies used to implement DevOps practices.
+
+**Case Study Discussions**: Engage in more real-world examples to further understand the practical applications, benefits, and challenges of cloud computing.
+
+**Cloud Architecture Design**: Practice the fundamentals of designing cloud architectures, including best practices, patterns, and principles to ensure scalability, reliability, and security.
+
+**Q&A**: Conclude the course with an open question and answer session to address any remaining questions, concerns, or areas of interest related to cloud computing.
