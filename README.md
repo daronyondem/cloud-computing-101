@@ -142,3 +142,7 @@ Publication Date: 2011-10-
 **Cloud Architecture Design**: Practice the fundamentals of designing cloud architectures, including best practices, patterns, and principles to ensure scalability, reliability, and security.
 
 **Q&A**: Conclude the course with an open question and answer session to address any remaining questions, concerns, or areas of interest related to cloud computing.
+
+## Formatting Guidelines for Assignments
+
+During this graduate level cloud computing course, you are required to adhere to the APA 7th edition formatting guidelines for all your assignments. The American Psychological Association (APA) format standardizes the structure and presentation of scholarly writing, thus ensuring clarity and consistency in your assignments. This involves proper citation of sources, formatting of tables and figures, organizing headings, and presenting a clear visual hierarchy. To assist you with the correct usage of APA 7th edition format, you can find [a sample paper](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers) for your reference. Be sure to familiarize yourself with the formatting requirements and adhere to them in your submissions.
