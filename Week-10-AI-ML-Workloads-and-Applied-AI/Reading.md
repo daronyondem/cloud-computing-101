@@ -13,7 +13,10 @@ By the end of this week, you will have a comprehensive understanding of AI/ML Wo
 ## Resources
 * Balachandran, B. M., & Prasad, S. (2017a). Challenges and Benefits of Deploying Big Data Analytics in the Cloud for Business Intelligence. _Procedia Computer Science, 112,_ 1112–1122. https://doi.org/10.1016/j.procs.2017.08.138
 * Balachandran, B. M., & Prasad, S. (2017b). Challenges and Benefits of Deploying Big Data Analytics in the Cloud for Business Intelligence. _Procedia Computer Science, 112_, 1112–1122. https://doi.org/10.1016/j.procs.2017.08.138
+* Daron Yöndem (Director). (2019, December 29). _Implementing AI Without Learning AI_. https://www.youtube.com/watch?v=TihtC1D9U28
+* Daron Yöndem (Director). (2021, October 30). _The ML Hero’s Secret Weapon: AutoML_. https://www.youtube.com/watch?v=uZYQhDyKLsc
 * Dean, J. (2015). The rise of cloud computing systems. _SOSP History Day 2015_, 1–40. https://doi.org/10.1145/2830903.2830913
 * Garry Tan (Director). (2023, February 8). _Applied AI for Pricing: You can’t be everywhere but your AI co-pilot can._ https://www.youtube.com/watch?v=G4G5kNdOU40
 * Microsoft Developer (Director). (2020, December 2). _Intro to AutoML on Azure | Learn with Dr G._ https://www.youtube.com/watch?v=eTrHT5fxEVc
 * Microsoft Developer (Director). (2021, June 4). _Reduce time to value with Azure Applied AI Services._ https://www.youtube.com/watch?v=M6wxdYQrAnQ
+
