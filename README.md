@@ -94,6 +94,20 @@ Publication Date: 2011-10-
 | Final Project                       |   100   |    40    |
 | Total                               |   100   |   100    |
 
+Letter Grade | Minimum Percentage
+-------------|-------------------
+A            | 93%
+A-           | 90%
+B+           | 87%
+B            | 83%
+B-           | 80%
+C+           | 77%
+C            | 73%
+C-           | 70%
+D+           | 67%
+D            | 60%
+F            | 0
+
 ## Course Calendar
 
 | Week | Topic                                     | Assignment                                      | Deadline            |
